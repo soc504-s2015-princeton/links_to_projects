@@ -8,4 +8,4 @@ Links to replication projects
 - Jessa and Grace's Repo: https://github.com/gracetien/Religious-Change-Replication-Project - [Pull Request](https://github.com/soc504-s2015-princeton/Religious-Change-Replication-Project/pull/1)
 - Megan and Kalyani's Repo: https://github.com/meganmb/RepProj - [Pull Request](https://github.com/soc504-s2015-princeton/RepProj/pull/1)
 
-- Jessa and Grace's new repo (long sad git story behind this): 
+- Jessa and Grace's new repo (long sad git story behind this): https://github.com/gracetien/Religion-Replication-Final-Version/
